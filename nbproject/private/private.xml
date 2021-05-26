@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/src/java/com/emergentes/controlador/UsuarioControlador.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/web/index.jsp</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/web/frmrol.jsp</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/web/roles.jsp</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/src/java/com/emergentes/dao/UsuariosDAOimpl.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/web/usuario.jsp</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/web/permisos.jsp</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/src/java/com/emergentes/controlador/RolControlador.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/src/java/com/emergentes/controlador/PermisosControlador.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/src/java/com/emergentes/dao/PermisosDAOimpl.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/src/java/com/emergentes/dao/RolesDAOimpl.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/web/frmusuario.jsp</file>
+            <file>file:/D:/Documentos/NetBeansProjects/TE_Segundo_Parcial/web/frmpermisos.jsp</file>
+        </group>
+    </open-files>
+</project-private>
